@@ -7,9 +7,11 @@ Aplicacion responsive hecha con HTML, bootstrap y javascript. La utilidad de la 
 ## Cómo ejecutar
 
 'npm install' para instalar las dependecias
-'npm run dev' para ejecutar en mode desarrollo
+
+'npm run dev' para ejecutar en modo desarrollo
 
 ´npm run build´  para costruir para produccion
+
 ## Captura
 
 ![App Screenshot](https://i.ibb.co/2d67M1J/screenshot.png)
