@@ -1,0 +1,10 @@
+$primary:       #0C2D57;
+$secondary:     #FC6736;
+$enable-rounded: false;
+@font-face {
+    font-family: 'league-spartan';
+    src: url('./fonts/League_Spartan/LeagueSpartan-VariableFont_wght.ttf') format('truetype');
+}
+$font-family-base: 'league-spartan'; ;
+
+@import './node_modules/bootstrap/scss/bootstrap.scss';
