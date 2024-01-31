@@ -1,7 +1,7 @@
 
 # Lista de la compra
 
-Aplicacion responsive hecha con HTML, bootstrap y javascript. La utilidad de la aplicacion es poder hacer una lista de la compra que es alamacenada en localStorge, es decir, la lista no se borra al cerrar el navegador.
+Aplicacion responsive hecha con HTML, bootstrap y javascript. La utilidad de la aplicacion es poder hacer una lista de la compra que es almacenada en localStorge, es decir, la lista no se borra al cerrar el navegador.
 
 
 ## Cómo ejecutar
